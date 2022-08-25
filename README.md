@@ -1,1 +1,2 @@
 ./gradlew ktlintCheck
+./gradlew ktlintFormat
